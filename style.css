@@ -5,6 +5,7 @@ body {
 header {
   font-size: 13px;
 margin-left: 95em;
+  word-spacing: 2em;
 }
 header ul li {
   display: inline;
